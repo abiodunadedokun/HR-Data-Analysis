@@ -61,7 +61,7 @@ Before conducting the analysis, it was crucial to clean and prepare the dataset.
    - Ensured consistent formatting of text fields like employee names and job titles to avoid issues during aggregation and analysis.
 ---
 
-### 4. **Data Visualization and Reporting** [hr_report.pdf](https://github.com/user-attachments/files/17043831/hr_report.pdf)
+### 4. **Data Visualization and Reporting** 
 
 ![hr_report_page-0001 1](https://github.com/user-attachments/assets/a8f2aeb1-1aab-46a3-bcbd-5e96891562b6)
 ![hr_report_page-0002 1](https://github.com/user-attachments/assets/a30ae77f-f0db-4df1-a515-7625f5ed9be7)
